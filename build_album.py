@@ -13,8 +13,8 @@ from pathlib import Path
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-ALBUM_TITLE      = "Our Little Album"          # Default title (override with --title)
-ALBUM_SUBTITLE   = "A collection of memories"  # Subtitle shown beneath the title
+ALBUM_TITLE      = "Ngo Tot Nghiep"          # Default title (override with --title)
+ALBUM_SUBTITLE   = "13-5-2021"  # Subtitle shown beneath the title
 PHOTOS_DIR       = "photos"                    # Directory scanned for images
 OUTPUT_FILE      = "index.html"               # Output HTML file
 

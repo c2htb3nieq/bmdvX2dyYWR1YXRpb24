@@ -18,8 +18,8 @@ on:
 
 env:
   # ── Change these to customise your album ────────────────────────────────
-  ALBUM_TITLE:    "Our Little Album"
-  ALBUM_SUBTITLE: "A collection of memories"
+  ALBUM_TITLE:    "Ngo Tot Nghiep"
+  ALBUM_SUBTITLE: "13-5-2021"
   PHOTOS_DIR:     "photos"
   OUTPUT_FILE:    "index.html"
   # ────────────────────────────────────────────────────────────────────────
